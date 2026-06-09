@@ -71,7 +71,9 @@ The MLP achieved the highest classification accuracy and demonstrated better cla
 - Recall
 - F1 Score
 - Confusion Matrix
+## Resources
 
+- Dataset and Project Files: [Google Drive Folder](https://drive.google.com/drive/folders/1vgb2I8IVW6Xp4Mwi505qMi7vufZTtjgP?usp=drive_link))
 ## Authors
 
 Sara Al Souqi
